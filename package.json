@@ -1,7 +1,7 @@
 {
   "name": "flightsearchproj",
   "version": "1.0.0",
-  "description": "",
+  "description": "BookingFlightManagementProject",
   "main": "index.js",
   "scripts": {
     "start": "npx nodemon src/index.js"
